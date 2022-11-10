@@ -1,10 +1,10 @@
 ### Quick Set up Eslint with airbnb style guide  
 
 1. Installing Eslint:  
-    `npm install eslint —-save-dev`
+    `npm install eslint --save-dev`
     
 2. Installing an Airbnb style guide:  
-    `npm install eslint-config-airbnb —-save-dev`  
+    `npm install eslint-config-airbnb --save-dev`  
     
 3. Running the eslint configuration:  
     `./node_modules/.bin/eslint --init`  
